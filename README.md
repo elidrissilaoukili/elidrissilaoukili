@@ -2,9 +2,9 @@
 
 **AI/ML Engineer** | Deep Learning · Computer Vision · NLP · Full-Stack Development
 
-Master's student at Sidi Mohammed Ben Abdellah University, focused on building state-of-the-art models and deploying them in production. My background spans AI/ML research as well as full-stack web development.
+Master's graduate (2026) from Sidi Mohammed Ben Abdellah University, focused on building state-of-the-art models and deploying them in production. My background spans AI/ML research as well as full-stack web development.
 
-🔭 Currently looking for a **Machine Learning Engineer Internship**
+🔭 Currently looking for a **Machine Learning Engineer** role
 📍 Based in Fez, Morocco
 
 ---
@@ -59,5 +59,5 @@ More on my [GitHub](https://github.com/elidrissilaoukili).
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=white)](https://elidrissilaoukili.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elidrissilaoukili@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@idrilogic)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@idricoding)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__elidrissii)
