@@ -15,13 +15,13 @@ Master's graduate (2026) from Sidi Mohammed Ben Abdellah University, focused on 
 `PyTorch` `TensorFlow` `Deep Learning (CNNs, Transformers)` `Computer Vision (OpenCV)` `NLP & LLMs` `Scikit-learn` `Edge AI & IoT` `Model Optimization & Compression`
 
 **Backend Development**
-`Java (Spring Boot)` `Laravel` `Node.js` `REST APIs` `MySQL` `MongoDB` `H2 Database`
+`Java (Spring Boot)` `PHP (Laravel)` `Node.js` `REST APIs` `MySQL` `MongoDB` `H2 Database`
 
 **Frontend Development**
 `React.js` `Next.js` `JavaScript` `HTML/CSS` `Tailwind CSS`
 
 **Languages**
-`Python` `Java` `JavaScript` `C/C++`
+`Python` `Java` `JavaScript` `C/C++` `PHP`
 
 **Tools & DevOps**
 `Docker` `Git/GitHub` `CI/CD` `Linux` `IBM CPLEX` `Jupyter` `Google Colab`
