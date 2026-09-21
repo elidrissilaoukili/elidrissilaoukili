@@ -49,7 +49,7 @@ Master's graduate (2026) from Sidi Mohammed Ben Abdellah University, focused on 
 | **Medical Platform** | Platform for appointment booking, patient tracking, and messaging | Spring Boot, Next.js | 2025 |
 | **Subscription Tracker System** | System to manage and track recurring subscriptions | Spring Boot, React, H2 Database | 2025 |
 | **E-commerce Website** | Full-stack online store with product catalog, cart, and orders | Laravel 11, MySQL, React | 2024 |
-| **Rental Website** *(Bachelor's Final Year Project)* | Platform for listing and renting properties/items | Full-stack web app | 2024 |
+| **Rental Website** *(Bachelor's Final Year Project)* [Visit](https://www.fsdm.usmba.ac.ma/PFE/1053768/show).| Platform for listing and renting properties/items | Full-stack web app | 2024 |
 
 More on my [GitHub](https://github.com/elidrissilaoukili).
 
