@@ -32,7 +32,7 @@ Master's graduate (2026) from Sidi Mohammed Ben Abdellah University, focused on 
 
 | Project | Description | Stack | Year |
 |---|---|---|---|
-| **Efficient Deep Learning: Model Optimization & Compression** *(Master's Final Year Project)* | Experimental study of DL compression techniques — pruning, quantization, knowledge distillation, low-rank factorization (LoRA/QLoRA), weight sharing, NAS, and early exit — evaluating trade-offs between accuracy and computational efficiency | Python, PyTorch | 2026 |
+| **Efficient Deep Learning: Model Optimization & Compression** *(Master's Final Year Project)* | Experimental study of DL compression techniques — pruning, quantization, knowledge distillation, low-rank factorization, weight sharing, NAS, and early exit — evaluating trade-offs between accuracy and computational efficiency | Python, PyTorch | 2026 |
 | **LLM & Vision-Language Model Evaluation** | Systematic evaluation framework using classical benchmarks and RL-based metrics with reproducible pipelines for multiple LLM architectures | Python, PyTorch, Transformers | 2026 |
 | **Traffic Sign Recognition System** | Ensemble CNN combining ResNet, VGG, and EfficientNet for real-time autonomous driving applications | Deep Learning, CNN, OpenCV | 2025 |
 | **Breast Cancer Classification** | Deep learning pipeline using probability-based feature fusion from DenseNet, ResNet, and Inception for medical image analysis | Medical AI, Transfer Learning, Computer Vision | 2025 |
