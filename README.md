@@ -32,7 +32,7 @@ Master's graduate (2026) from Sidi Mohammed Ben Abdellah University, focused on 
 
 | Project | Description | Stack | Year |
 |---|---|---|---|
-| **Efficient Deep Learning: Model Optimization & Compression** *(Master's Final Year Project)* | Experimental study of DL compression techniques — pruning, quantization, knowledge distillation, low-rank factorization, weight sharing, NAS, and early exit — evaluating trade-offs between accuracy and computational efficiency | Python, PyTorch | 2026 |
+| **Efficient Deep Learning: Model Optimization & Compression** *(Master's Final Year Project)* [Visit]([https://www.fsdm.usmba.ac.ma/PFE/1053768/show](https://www.fsdm.usmba.ac.ma/PFE/1124704/show)) | Experimental study of DL compression techniques — pruning, quantization, knowledge distillation, low-rank factorization, weight sharing, NAS, and early exit — evaluating trade-offs between accuracy and computational efficiency | Python, PyTorch | 2026 |
 | **LLM & Vision-Language Model Evaluation** | Systematic evaluation framework using classical benchmarks and RL-based metrics with reproducible pipelines for multiple LLM architectures | Python, PyTorch, Transformers | 2026 |
 | **Traffic Sign Recognition System** | Ensemble CNN combining ResNet, VGG, and EfficientNet for real-time autonomous driving applications | Deep Learning, CNN, OpenCV | 2025 |
 | **Breast Cancer Classification** | Deep learning pipeline using probability-based feature fusion from DenseNet, ResNet, and Inception for medical image analysis | Medical AI, Transfer Learning, Computer Vision | 2025 |
@@ -49,7 +49,7 @@ Master's graduate (2026) from Sidi Mohammed Ben Abdellah University, focused on 
 | **Medical Platform** | Platform for appointment booking, patient tracking, and messaging | Spring Boot, Next.js | 2025 |
 | **Subscription Tracker System** | System to manage and track recurring subscriptions | Spring Boot, React, H2 Database | 2025 |
 | **E-commerce Website** | Full-stack online store with product catalog, cart, and orders | Laravel 11, MySQL, React | 2024 |
-| **Rental Website** *(Bachelor's Final Year Project)* [Visit](https://www.fsdm.usmba.ac.ma/PFE/1053768/show).| Platform for listing and renting properties/items | Full-stack web app | 2024 |
+| **Rental Website** *(Bachelor's Final Year Project)*. [Visit](https://www.fsdm.usmba.ac.ma/PFE/1053768/show)| Platform for listing and renting properties/items | Full-stack web app | 2024 |
 
 More on my [GitHub](https://github.com/elidrissilaoukili).
 
