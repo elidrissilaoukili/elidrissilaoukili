@@ -41,14 +41,25 @@ Master's graduate (2026) from Sidi Mohammed Ben Abdellah University, focused on 
 
 ---
 
+### 💼 Professional & Freelance Experience
+
+| Project | Description | Stack | Year |
+|---|---|---|---|
+| **Session and Payment Manager for a Clinic** *(Freelance)* | Desktop application for managing sessions, appointments, payments, and data exchange | Python, React.js, Electron.js | 2026 |
+| **Clinic and Appointment Management System** *(Freelance)*. [Live](https://www.allolaboratoire.health) | Full-stack web application with messaging, admin dashboard, and CI/CD via Docker, deployed in production | Spring Boot, Next.js, MySQL, Docker | 2025 |
+| **Gym Management Desktop Application** *(Freelance)* | Desktop application for managing members, subscriptions, and trainers, with offline functionality | Spring Boot, React.js, Electron.js, H2 | 2025 |
+
+---
+
 ### 🚀 Development Projects
 
 | Project | Description | Stack | Year |
 |---|---|---|---|
-| **Medical Platform** | Platform for appointment booking, patient tracking, and messaging | Spring Boot, Next.js | 2025 |
-| **Subscription Tracker System** | System to manage and track recurring subscriptions | Spring Boot, React, H2 Database | 2025 |
-| **E-commerce Website** | Full-stack online store with product catalog, cart, and orders | Laravel 11, MySQL, React | 2024 |
-| **Rental Website** *(Bachelor's Final Year Project)*. [Visit](https://www.fsdm.usmba.ac.ma/PFE/1053768/show)| Platform for listing and renting properties/items | Full-stack web app | 2024 |
+| **IT Support Ticketing System** | Role-based access control, ticket prioritization, and audit logs | Spring Boot, Spring Security, MySQL, React.js, Tailwind CSS | 2025 |
+| **Full-Stack eCommerce Platform** | Online store with order management, messaging, and customer reviews | Laravel 11, React.js, Inertia.js | 2024 |
+| **Car Rental Web Application** *(Bachelor's Project)*. [Visit](https://www.fsdm.usmba.ac.ma/PFE/1053768/show) | Real-time car search and booking | Laravel, MySQL, Bootstrap, jQuery | 2024 |
+
+---
 
 More on my [GitHub](https://github.com/elidrissilaoukili).
 
