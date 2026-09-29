@@ -36,7 +36,6 @@ Master's graduate (2026) from Sidi Mohammed Ben Abdellah University, focused on 
 | **LLM & Vision-Language Model Evaluation** | Systematic evaluation framework using classical benchmarks and RL-based metrics with reproducible pipelines for multiple LLM architectures | Python, PyTorch, Transformers | 2026 |
 | **Traffic Sign Recognition System** | Ensemble CNN combining ResNet, VGG, and EfficientNet for real-time autonomous driving applications | Deep Learning, CNN, OpenCV | 2025 |
 | **Breast Cancer Classification** | Deep learning pipeline using probability-based feature fusion from DenseNet, ResNet, and Inception for medical image analysis | Medical AI, Transfer Learning, Computer Vision | 2025 |
-| **Swin Transformer Vision System** | Hierarchical vision transformer achieving state-of-the-art performance on ImageNet, COCO, and ADE20K benchmarks | Transformers, PyTorch | 2025 |
 | **Edge AI Face Recognition** | Embedded face recognition system using ESP32-CAM and Edge Impulse with real-time processing for IoT applications | Edge AI, IoT, ESP32, TinyML | 2025 |
 | **University Timetabling Optimization** | Scheduling system using Integer Programming and IBM CPLEX solver integrated with a Spring Boot backend | Optimization, CPLEX, Java | 2024 |
 
