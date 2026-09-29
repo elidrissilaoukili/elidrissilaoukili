@@ -61,7 +61,7 @@ Master's graduate (2026) from Sidi Mohammed Ben Abdellah University, focused on 
 
 ---
 
-More on my [GitHub](https://github.com/elidrissilaoukili).
+More on my [Portfolio](https://elidrissilaoukili.github.io/).
 
 ---
 
