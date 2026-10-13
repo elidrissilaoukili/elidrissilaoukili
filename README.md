@@ -72,26 +72,37 @@ More on my [Portfolio](https://elidrissilaoukili.github.io/).
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@idrilogic)
 
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<!-- Row 1: stats + languages -->
-<img height="190" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elidrissilaoukili&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="190" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidrissilaoukili&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" />
-
-<!-- Row 2: streak -->
-<img width="720" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=elidrissilaoukili&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+📊 Statistiques GitHub
+<div align="center"> 
+   
+   <!-- Row 1: stats + languages -->
+<img height="190" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elidrissilaoukili&show_icons=true&theme=tokyonight&hide_border=true" /> 
+<img height="190" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elidrissilaoukili&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,jupyter%20notebook" /> 
+   
+   <!-- Row 2: streak --> 
+   <img width="720" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=elidrissilaoukili&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> <br/> 
+   <!-- Visitor counter --> 
+   <img alt="Visiteurs du profil" src="https://komarev.com/ghpvc/?username=elidrissilaoukili&label=Visiteurs%20du%20profil&color=8a2be2&style=flat" /> </div>
 
 <!-- Row 3: activity graph -->
-<img width="840" alt="Contribution Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=elidrissilaoukili&theme=tokyo-night&hide_border=true&area=true&custom_title=Activit%C3%A9%20des%20contributions" />
+<img width="840" alt="Contribution Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Activit%C3%A9%20des%20contributions" />
 
 <!-- Row 4: trophies -->
-<img width="840" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=elidrissilaoukili&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+<img width="840" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
 
 <br/>
 
 <!-- Visitor counter -->
-<img alt="Visiteurs du profil" src="https://komarev.com/ghpvc/?username=elidrissilaoukili&label=Visiteurs%20du%20profil&color=8a2be2&style=flat" />
+<img alt="Visiteurs du profil" src="https://komarev.com/ghpvc/?username=USERNAME&label=Visiteurs%20du%20profil&color=8a2be2&style=flat" />
 
 </div>
+
+<!--
+TIPS
+1. Public Vercel instances are often rate-limited. If a card shows an error, fork
+   github/anuraghazra/github-readme-stats, deploy it on your own Vercel account,
+   and replace "github-readme-stats.vercel.app" with your domain.
+2. To raise the rank, enable "Private contributions" in your GitHub profile settings.
+3. Other themes: radical, dracula, midnight-purple, gruvbox, onedark, synthwave.
+4. Optional extra: a contribution "snake" animation via the Platane/snk GitHub Action.
+-->
